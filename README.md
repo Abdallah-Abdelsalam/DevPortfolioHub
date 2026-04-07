@@ -8,13 +8,6 @@ A professional portfolio management API built with ASP.NET Core 8.0.
 - Comments and likes system
 - RESTful API with Swagger documentation
 
-## Technologies
-- .NET 8.0
-- Entity Framework Core
-- SQL Server
-- AutoMapper
-- JWT Authentication
-
 ## Getting Started
 1. Clone the repository
 2. Run `dotnet restore`
