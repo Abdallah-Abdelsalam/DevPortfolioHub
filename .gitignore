@@ -1,0 +1,33 @@
+﻿## Ignore build files
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+.vs/
+.idea/
+.vscode/
+
+## Ignore logs
+logs/
+*.log
+
+## Ignore app settings with secrets
+appsettings.Development.json
+appsettings.Production.json
+secrets.json
+
+## Ignore OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## Ignore publish folders
+publish/
+*.pubxml
+
+## Ignore coverage reports
+*.coverage
+coverage/
+*.trx
